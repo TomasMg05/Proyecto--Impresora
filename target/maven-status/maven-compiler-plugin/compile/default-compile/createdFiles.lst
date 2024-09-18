@@ -1,0 +1,5 @@
+Modelo\TrabajoDeImpresion.class
+Main\ImpresoraApp.class
+Modelo\Impresora.class
+Vista\ImpresoraVista.class
+Control\ImpresoraControlador.class
